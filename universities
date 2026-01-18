@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 1,
+        "name": "Engineering Institute of Technology",
+        "country": "Australia",
+        "code": "AU",
+        "website": "https://www.eit.edu.au/"
+    },
+    {
+        "id": 2,
+        "name": "Toronto Baptist Seminary and Bible College",
+        "country": "Canada",
+        "code": "CA",
+        "website": "https://tbs.edu"
+    },
+    {
+        "id": 3,
+        "name": "West Herts College",
+        "country": "United Kingdom",
+        "code": "GB",
+        "website": "https://westherts.ac.uk"
+    },
+    {
+        "id": 4,
+        "name": "National Institute of Applied Sciences of Toulouse",
+        "country": "France",
+        "code": "FR",
+        "website": "https://insa-toulouse.fr"
+    },
+    {
+        "id": 5,
+        "name": "IÉSEG School of Management",
+        "country": "France",
+        "code": "FR",
+        "website": "https://ieseg.fr"
+    },
+    {
+        "id": 6,
+        "name": "Sun Yat-Sen University",
+        "country": "China",
+        "code": "CN",
+        "website": "https://sysu.edu.cn"
+    },
+    {
+        "id": 7,
+        "name": "Royal Holloway University of London",
+        "country": "United Kingdom",
+        "code": "GB",
+        "website": "https://rhul.ac.uk"
+    },
+    {
+        "id": 8,
+        "name": "Hunan University",
+        "country": "China",
+        "code": "CN",
+        "website": "https://www.hnu.edu.cn"
+    },
+    {
+        "id": 9,
+        "name": "University of Portsmouth",
+        "country": "United Kingdom",
+        "code": "GB",
+        "website": "http://www.port.ac.uk/"
+    },
+    {
+        "id": 10,
+        "name": "Central Supélec",
+        "country": "France",
+        "code": "FR",
+        "website": "https://www.centralesupelec.fr/"
+    },
+    {
+        "id": 11,
+        "name": "Académie de Paris",
+        "country": "France",
+        "code": "FR",
+        "website": "https://www.ac-paris.fr/"
+    },
+    {
+        "id": 12,
+        "name": "Académie d'Aix-Marseille",
+        "country": "France",
+        "code": "FR",
+        "website": "https://www.ac-aix-marseille.fr/"
+    },
+    {
+        "id": 13,
+        "name": "Académie de Créteil",
+        "country": "France",
+        "code": "FR",
+        "website": "https://www.ac-creteil.fr/"
+    },
+    {
+        "id": 14,
+        "name": "Marywood University",
+        "country": "United States",
+        "code": "US",
+        "website": "http://www.marywood.edu"
+    },
+    {
+        "id": 15,
+        "name": "Cégep de Saint-Jérôme",
+        "country": "Canada",
+        "code": "CA",
+        "website": "https://www.cstj.qc.ca"
+    },
+    {
+        "id": 16,
+        "name": "Lindenwood University",
+        "country": "United States",
+        "code": "US",
+        "website": "http://www.lindenwood.edu/"
+    },
+    {
+        "id": 17,
+        "name": "Sullivan University",
+        "country": "United States",
+        "code": "US",
+        "website": "https://sullivan.edu/"
+    },
+    {
+        "id": 18,
+        "name": "Florida State College at Jacksonville",
+        "country": "United States",
+        "code": "US",
+        "website": "https://www.fscj.edu/"
+    },
+    {
+        "id": 19,
+        "name": "Xavier University",
+        "country": "United States",
+        "code": "US",
+        "website": "https://www.xavier.edu/"
+    },
+    {
+        "id": 20,
+        "name": "Tusculum College",
+        "country": "United States",
+        "code": "US",
+        "website": "https://home.tusculum.edu/"
+    },
+    {
+        "id": 21,
+        "name": "Claremont School of Theology",
+        "country": "United States",
+        "code": "US",
+        "website": "https://cst.edu/"
+    },
+    {
+        "id": 22,
+        "name": "Columbia College (SC)",
+        "country": "United States",
+        "code": "US",
+        "website": "https://www.columbiasc.edu/"
+    },
+    {
+        "id": 23,
+        "name": "Chabot-Las Positas Community College District",
+        "country": "United States",
+        "code": "US",
+        "website": "http://www.clpccd.edu/"
+    },
+    {
+        "id": 24,
+        "name": "Keller Graduate School of Management",
+        "country": "United States",
+        "code": "US",
+        "website": "https://www.keller.edu/"
+    },
+    {
+        "id": 25,
+        "name": "Monroe College",
+        "country": "United States",
+        "code": "US",
+        "website": "https://monroecollege.edu/"
+    },
+    {
+        "id": 26,
+        "name": "San Mateo County Community College District",
+        "country": "United States",
+        "code": "US",
+        "website": "https://smccd.edu/"
+    },
+    {
+        "id": 27,
+        "name": "Los Rios Community College District",
+        "country": "United States",
+        "code": "US",
+        "website": "http://losrios.edu/"
+    },
+    {
+        "id": 28,
+        "name": "DigiPen Institute of Technology",
+        "country": "United States",
+        "code": "US",
+        "website": "https://www.digipen.edu/"
+    },
+    {
+        "id": 29,
+        "name": "University of Pittsburgh Medical Center",
+        "country": "United States",
+        "code": "US",
+        "website": "https://www.upmc.com/"
+    },
+    {
+        "id": 30,
+        "name": "Claremont Graduate University",
+        "country": "United States",
+        "code": "US",
+        "website": "https://www.cgu.edu/"
+    },
+    {
+        "id": 31,
+        "name": "The University of Texas at Rio Grande Valley",
+        "country": "United States",
+        "code": "US",
+        "website": "https://www.utrgv.edu/"
+    },
+    {
+        "id": 32,
+        "name": "College of Mount Saint Vincent",
+        "country": "United States",
+        "code": "US",
+        "website": "https://mountsaintvincent.edu/"
+    },
+    {
+        "id": 33,
+        "name": "University of Arkansas System eVersity",
+        "country": "United States",
+        "code": "US",
+        "website": "https://www.uasys.edu/"
+    },
+    {
+        "id": 34,
+        "name": "ECPI University",
+        "country": "United States",
+        "code": "US",
+        "website": "https://www.ecpi.edu/"
+    },
+    {
+        "id": 35,
+        "name": "Futureworks",
+        "country": "United Kingdom",
+        "code": "GB",
+        "website": "https://futureworks.ac.uk/"
+    },
+    {
+        "id": 36,
+        "name": "Lambton College",
+        "country": "Canada",
+        "code": "CA",
+        "website": "https://www.lambtoncollege.ca"
+    },
+    {
+        "id": 37,
+        "name": "University of the Arts London",
+        "country": "United Kingdom",
+        "code": "GB",
+        "website": "https://www.arts.ac.uk"
+    },
+    {
+        "id": 38,
+        "name": "Australian Correspondence Schools",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.acs.edu.au/"
+    },
+    {
+        "id": 39,
+        "name": "Australian Catholic University",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.acu.edu.au/"
+    },
+    {
+        "id": 40,
+        "name": "University of Adelaide",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.adelaide.edu.au/"
+    },
+    {
+        "id": 41,
+        "name": "Australian Defence Force Academy",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.adfa.oz.au/"
+    },
+    {
+        "id": 42,
+        "name": "Australian Lutheran College",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.alc.edu.au/"
+    },
+    {
+        "id": 43,
+        "name": "Australian Maritime College",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.amc.edu.au/"
+    },
+    {
+        "id": 44,
+        "name": "Australian National University",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.anu.edu.au/"
+    },
+    {
+        "id": 45,
+        "name": "Avondale University",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.avondale.edu.au/"
+    },
+    {
+        "id": 46,
+        "name": "Federation University Australia",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://federation.edu.au/"
+    },
+    {
+        "id": 47,
+        "name": "Bond University",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.bond.edu.au/"
+    },
+    {
+        "id": 48,
+        "name": "University of Canberra",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.canberra.edu.au/"
+    },
+    {
+        "id": 49,
+        "name": "Charles Darwin University",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.cdu.edu.au/"
+    },
+    {
+        "id": 50,
+        "name": "Central Queensland University",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.cqu.edu.au/"
+    },
+    {
+        "id": 51,
+        "name": "Charles Sturt University",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.csu.edu.au/"
+    },
+    {
+        "id": 52,
+        "name": "Curtin University",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.curtin.edu.au/"
+    },
+    {
+        "id": 53,
+        "name": "Deakin University",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.deakin.edu.au/"
+    },
+    {
+        "id": 54,
+        "name": "Edith Cowan University",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.ecu.edu.au/"
+    },
+    {
+        "id": 55,
+        "name": "Flinders University of South Australia",
+        "country": "Australia",
+        "code": "AU",
+        "website": "http://www.flinders.edu.au/"
+    },
+    {
+        "id": 56,
+        "name": "Griffith University",
+        "country": "Australia",
+        "code": "AU",
+        "website": "https://www.griffith.edu.au/"
+    },
+    {
+        "id": 57,
+        "name": "Asia Europe University",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.aeu.edu.kh/"
+    },
+    {
+        "id": 58,
+        "name": "Angkor University",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.angkor.edu.kh/"
+    },
+    {
+        "id": 59,
+        "name": "Build Bright University",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.bbu.edu.kh/"
+    },
+    {
+        "id": 60,
+        "name": "Chamreun University of Poly Technology",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.cup.edu.kh/"
+    },
+    {
+        "id": 61,
+        "name": "Cambodia University of Specialties",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.cus.edu.kh/"
+    },
+    {
+        "id": 62,
+        "name": "National Institute of Education",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.ine.edu.kh/"
+    },
+    {
+        "id": 63,
+        "name": "International University",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.iu.edu.kh/"
+    },
+    {
+        "id": 64,
+        "name": "Cambodian Mekong University",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.mekong.edu.kh/"
+    },
+    {
+        "id": 65,
+        "name": "Norton University",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.norton.edu.kh/"
+    },
+    {
+        "id": 66,
+        "name": "National University of Management",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.num.edu.kh/"
+    },
+    {
+        "id": 67,
+        "name": "Pannnasatra University of Cambodia",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.puc.edu.kh/"
+    },
+    {
+        "id": 68,
+        "name": "Royal University of Agriculture",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.rua.edu.kh/"
+    },
+    {
+        "id": 69,
+        "name": "Royal University of Fine Arts",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.rufa.edu.kh/"
+    },
+    {
+        "id": 70,
+        "name": "Royal University of Law and Economics",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.rule.edu.kh/"
+    },
+    {
+        "id": 71,
+        "name": "Royal University of Phnom Penh",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.rupp.edu.kh/"
+    },
+    {
+        "id": 72,
+        "name": "Svey Reong University",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.sru.edu.kh/"
+    },
+    {
+        "id": 73,
+        "name": "University of Cambodia",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.uc.edu.kh/"
+    },
+    {
+        "id": 74,
+        "name": "University of Health and Science",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.univ-sante.edu.kh/"
+    },
+    {
+        "id": 75,
+        "name": "University of Technology Phnom Penh",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.utpp.edu.kh/"
+    },
+    {
+        "id": 76,
+        "name": "Western University",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.western.edu.kh/"
+    },
+    {
+        "id": 77,
+        "name": "Zaman University",
+        "country": "Cambodia",
+        "code": "KH",
+        "website": "http://www.zamanuniversity.edu.kh/"
+    },
+    {
+        "id": 78,
+        "name": "Acadia University",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.acadiau.ca/"
+    },
+    {
+        "id": 79,
+        "name": "Algonquin College",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.algonquincollege.com/"
+    },
+    {
+        "id": 80,
+        "name": "Ashton College",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.ashtoncollege.com/"
+    },
+    {
+        "id": 81,
+        "name": "Assumption University",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.assumptionu.ca/"
+    },
+    {
+        "id": 82,
+        "name": "Athabasca University",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.athabascau.ca/"
+    },
+    {
+        "id": 83,
+        "name": "Augustana University College",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.augustana.ab.ca/"
+    },
+    {
+        "id": 84,
+        "name": "British Columbia Institute of Technology",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.bcit.ca/"
+    },
+    {
+        "id": 85,
+        "name": "British Columbia Open University",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.bcou.ca/"
+    },
+    {
+        "id": 86,
+        "name": "William and Catherine Booth College",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.boothcollege.ca/"
+    },
+    {
+        "id": 87,
+        "name": "Collège Boréal",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.borealc.on.ca/"
+    },
+    {
+        "id": 88,
+        "name": "Bow Valley College",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.bowvalleycollege.ca/"
+    },
+    {
+        "id": 89,
+        "name": "Brandon University",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.brandonu.ca/"
+    },
+    {
+        "id": 90,
+        "name": "Brock University",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.brocku.ca/"
+    },
+    {
+        "id": 91,
+        "name": "DeVry Institute of Technology",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.cal.devry.ca/"
+    },
+    {
+        "id": 92,
+        "name": "Camosun College",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.camosun.bc.ca/"
+    },
+    {
+        "id": 93,
+        "name": "Capilano College",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.capcollege.bc.ca/"
+    },
+    {
+        "id": 94,
+        "name": "University College of the Cariboo",
+        "country": "Canada",
+        "code": "CA",
+        "website": "http://www.cariboo.bc.ca/"
+    },
+    {
+        "id": 95,
+        "name": "Anhui Medical University",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.ahmu.edu.cn/"
+    },
+    {
+        "id": 96,
+        "name": "Anhui Normal University",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.ahnu.edu.cn/"
+    },
+    {
+        "id": 97,
+        "name": "Anhui Technical College of Water Resources and Hydroelectric Power",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.ahsdxy.ah.edu.cn/"
+    },
+    {
+        "id": 98,
+        "name": "Anhui University of Traditional Chinese Medicine",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.ahtcm.edu.cn/"
+    },
+    {
+        "id": 99,
+        "name": "Anhui University",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.ahu.edu.cn/"
+    },
+    {
+        "id": 100,
+        "name": "Anhui University of Finance and Economics",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.aufe.edu.cn/"
+    },
+    {
+        "id": 101,
+        "name": "Beijing University of Agriculture",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.bac.edu.cn/"
+    },
+    {
+        "id": 102,
+        "name": "Beijing Foreign Studies University",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.bfsu.edu.cn/"
+    },
+    {
+        "id": 103,
+        "name": "Bohai University",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.bhu.edu.cn/"
+    },
+    {
+        "id": 104,
+        "name": "Beijing International Studies University",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.bisu.edu.cn/"
+    },
+    {
+        "id": 105,
+        "name": "Beijing Institute of Technology",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.bit.edu.cn/"
+    },
+    {
+        "id": 106,
+        "name": "Beijing Information Science and Technology University",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.biti.edu.cn/"
+    },
+    {
+        "id": 107,
+        "name": "Beijing Jiaotong University",
+        "country": "China",
+        "code": "CN",
+        "website": "https://www.bjtu.edu.cn"
+    },
+    {
+        "id": 108,
+        "name": "China Agriculture University East",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.bjaeu.edu.cn/"
+    },
+    {
+        "id": 109,
+        "name": "Beijing Forestry University",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.bjfu.edu.cn/"
+    },
+    {
+        "id": 110,
+        "name": "Beijing Medical University",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.bjmu.edu.cn/"
+    },
+    {
+        "id": 111,
+        "name": "Beijing Petroleum University",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.bjpeu.edu.cn/"
+    },
+    {
+        "id": 112,
+        "name": "Beijing Polytechnic University",
+        "country": "China",
+        "code": "CN",
+        "website": "http://www.bjpu.edu.cn/"
+    },
+    {
+        "id": 113,
+        "name": "42 FR",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.42.fr/"
+    },
+    {
+        "id": 114,
+        "name": "Ecole de l'Air",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.aea.asso.fr/"
+    },
+    {
+        "id": 115,
+        "name": "AgroParisTech",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.agroparistech.fr/"
+    },
+    {
+        "id": 116,
+        "name": "Ecole Nationale Supérieure d'Agronomie de Rennes",
+        "country": "France",
+        "code": "FR",
+        "website": "http://agro.roazhon.inra.fr/"
+    },
+    {
+        "id": 117,
+        "name": "AgroSup Dijon",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.agrosupdijon.fr/"
+    },
+    {
+        "id": 118,
+        "name": "American Graduate School in Paris",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.ags.edu/"
+    },
+    {
+        "id": 119,
+        "name": "American University of Paris",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.aup.fr/"
+    },
+    {
+        "id": 120,
+        "name": "Ecole Supérieure de Commerce de Sophia Antipolis",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.ceram.edu/"
+    },
+    {
+        "id": 121,
+        "name": "Centre d'Etudes Supérieures Industrielles Paris",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.cesi.fr/"
+    },
+    {
+        "id": 122,
+        "name": "Centre de Formation et de Perfectionnement des Journalistes",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.cfpj.com/"
+    },
+    {
+        "id": 123,
+        "name": "Conservatoire National des Arts et Métiers",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.cnam.fr/"
+    },
+    {
+        "id": 124,
+        "name": "Centre National d'Etudes Agronomiques des Régions Chaudes",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.cnearc.fr/"
+    },
+    {
+        "id": 125,
+        "name": "Ecole Supérieure de Chimie Physique Electronique de Lyon",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.cpe.fr/"
+    },
+    {
+        "id": 126,
+        "name": "Université Bordeaux I",
+        "country": "France",
+        "code": "FR",
+        "website": "http://www.cribx1.u-bordeaux.fr/"
+    },
+    {
+        "id": 127,
+        "name": "IU Internationale Hochschule GmbH",
+        "country": "Germany",
+        "code": "DE",
+        "website": "https://www.iu-fernstudium.de/"
+    },
+    {
+        "id": 128,
+        "name": "AKAD Hochschulen für Berufstätige, Fachhochschule Leipzig",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.akad.de/"
+    },
+    {
+        "id": 129,
+        "name": "Alice-Salomon-Fachhochschule für Sozialarbeit und Sozialpädagogik Berlin",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.asfh-berlin.de/"
+    },
+    {
+        "id": 130,
+        "name": "Augustana Hochschule Neuendettelsau",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.augustana.de/"
+    },
+    {
+        "id": 131,
+        "name": "Kirchliche Hochschule Bethel",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.bethel.de/kiho/"
+    },
+    {
+        "id": 132,
+        "name": "BiTS - Business and Information Technology School gGmbH",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.bits-iserlohn.de/"
+    },
+    {
+        "id": 133,
+        "name": "Cologne Business School",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.cbs.de/"
+    },
+    {
+        "id": 134,
+        "name": "CODE University of Applied Sciences Berlin",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://code.berlin/"
+    },
+    {
+        "id": 135,
+        "name": "Deutsche Hochschule für Verwaltungswissenschaften Speyer",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.dhv-speyer.de/"
+    },
+    {
+        "id": 136,
+        "name": "DIPLOMA-Fachhochschule Ölsnitz/Vogtland",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.diploma.de/"
+    },
+    {
+        "id": 137,
+        "name": "Deutsche Sporthochschule Köln",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.dshs-koeln.de/"
+    },
+    {
+        "id": 138,
+        "name": "E.A.P. Europäische Wirtschaftshochschule Berlin",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.eap.net/"
+    },
+    {
+        "id": 139,
+        "name": "Europäische Betriebswirtschafts-Akademie",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.eba-muenchen.de/"
+    },
+    {
+        "id": 140,
+        "name": "European Business School Schloß Reichartshausen",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.ebs.de/"
+    },
+    {
+        "id": 141,
+        "name": "European College of Liberal Arts",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.ecla.de/"
+    },
+    {
+        "id": 142,
+        "name": "Evangelische Fachhochschule Rheinland-Westfalen-Lippe",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.efh-bochum.de/"
+    },
+    {
+        "id": 143,
+        "name": "Evangelische Fachhochschule Darmstadt",
+        "country": "Germany",
+        "code": "DE",
+        "website": "https://www.eh-darmstadt.de/"
+    },
+    {
+        "id": 144,
+        "name": "Evangelische Fachhochschule Freiburg, Hochschule für Soziale Arbeit, Diakonie und Religionspädagogik",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.efh-freiburg.de/"
+    },
+    {
+        "id": 145,
+        "name": "Evangelische Fachhochschule Hannover",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.efh-hannover.de/"
+    },
+    {
+        "id": 146,
+        "name": "Evangelische Fachhochschule Ludwigshafen Hochschule für Sozial- und Gesundheitswesen",
+        "country": "Germany",
+        "code": "DE",
+        "website": "http://www.efhlu.de/"
+    },
+    {
+        "id": 147,
+        "name": "Aichi Shukutoku University",
+        "country": "Japan",
+        "code": "JP",
+        "website": "http://www.aasa.ac.jp/"
+    },
+    {
+        "id": 148,
+        "name": "Aichi Bunkyo University",
+        "country": "Japan",
+        "code": "JP",
+        "website": "http://www.abu.ac.jp/"
+    },
+    {
+        "id": 149,
+        "name": "Aichi University of Education",
+        "country": "Japan",
+        "code": "JP",
+        "website": "http://www.aichi-edu.ac.jp/"
+    },
+    {
+        "id": 150,
+        "name": "Aichi Prefectural University of Fine Arts & Music",
+        "country": "Japan",
+        "code": "JP",
+        "website": "http://www.aichi-fam-u.ac.jp/"
+    }
+]
